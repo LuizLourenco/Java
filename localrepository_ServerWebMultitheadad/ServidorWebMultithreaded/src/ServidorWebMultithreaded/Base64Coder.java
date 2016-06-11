@@ -148,32 +148,6 @@ public class Base64Coder {
 					return out;
 		}
 	} // end class Base64Coder
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 }

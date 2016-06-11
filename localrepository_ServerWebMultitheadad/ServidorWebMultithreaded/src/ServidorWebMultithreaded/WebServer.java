@@ -1,4 +1,4 @@
-package http1;
+package ServidorWebMultithreaded;
 import java.net.*;
 
 public final class WebServer {
